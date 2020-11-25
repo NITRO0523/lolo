@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AandE.mx" tvg-name="FHD - A&E HD" tvg-logo="https://pmcdeadline2.files.wordpress.com/2016/06/ae-featured-image.jpg?w=446&h=299&crop=1" group-title="• FULL HD (1080 HQ)",FHD - A&E HD
+https://streamtape.com/get_video?id=BPpAxgwaZDt6bp&expires=1606044350&ip=FRuODxyNERSNFt&token=oX4iOrf62s7o&stream=1
+#EXTINF:-1 tvg-id="AMC.mx" tvg-name="FHD - AMC" tvg-logo="http://horrorfuel.com/wp-content/uploads/2015/06/amc-3.png" group-title="• FULL HD (1080 HQ)",FHD - AMC
+https://streamtape.com/get_video?id=6kd18pzQMpiokw&expires=1606044664&ip=FRuODxyNERSNFt&token=I1aS7gX26vSn&stream=1
+#EXTINF:-1 tvg-id="AXN.mx" tvg-name="FHD - AXN HD" tvg-logo="https://la.axn.com/sites/la.axn/files/ct_custom_page_f_primary_image/axn_logo_0.jpg" group-title="• FULL HD (1080 HQ)",FHD - AXN HD
+https://streamtape.com/get_video?id=rgwoVk6dDQUMm3&expires=1606044761&ip=FRuODxyNERSNFt&token=QvZB3Ot_Sn6A&stream=1
+#EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="FHD - CINECANAL" tvg-logo="https://i.pinimg.com/originals/c1/4f/75/c14f754e78f60f3a8829b2b5c2e1276a.png" group-title="• FULL HD (1080 HQ)",FHD - CINECANAL
+https://streamtape.com/get_video?id=aYBwbdwQL3HJZX&expires=1606044792&ip=FRuODxyNERSNFt&token=FatWHE91-BZQ&stream=1
+#EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="FHD - CINEMAX" tvg-logo="http://images.mi.tv/channels/mx_cinemax_m.png" group-title="• FULL HD (1080 HQ)",FHD - CINEMAX
+https://streamtape.com/get_video?id=0d1RGgwjXrHbX86&expires=1606045146&ip=FRuODxyNERSNFt&token=0S0AM85pNhUP&stream=1
+#EXTINF:-1 tvg-id="Fox.mx" tvg-name="FHD - FOX HD" tvg-logo="http://www.elespectador.com/sites/default/files/b2b872b67aceb067a12d2611b00592ae.jpg" group-title="• FULL HD (1080 HQ)",FHD - FOX HD
+https://streamtape.com/get_video?id=mylDMVajAdcbapg&expires=1606045223&ip=FRuODxyNERSNFt&token=Y1CbHYyt_sWe&stream=1
+#EXTINF:-1 tvg-id="FoxLife.mx" tvg-name="FHD - FOX LIFE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Fox_Life_pt_logo.PNG" group-title="• FULL HD (1080 HQ)",FHD - FOX LIFE HD
+https://streamtape.com/get_video?id=mylDMVajAdcbapg&expires=1606045223&ip=FRuODxyNERSNFt&token=Y1CbHYyt_sWe&stream=1
+#EXTINF:-1 tvg-id="FoxAction.mx" tvg-name="FHD - FOX PREMIUM ACTION" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-action_m.png" group-title="• FULL HD (1080 HQ)",FHD - FOX PREMIUM ACTION
+https://streamtape.com/get_video?id=v9wddoq2L3F4XlZ&expires=1606045369&ip=FRuODxyNERSNFt&token=CC_sRbzh6cYT&stream=1
