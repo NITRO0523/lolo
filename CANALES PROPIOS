@@ -1,0 +1,64 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AandE.mx" tvg-name="FHD - A&E HD" tvg-logo="https://pmcdeadline2.files.wordpress.com/2016/06/ae-featured-image.jpg?w=446&h=299&crop=1" group-title="• FULL HD (1080 HQ)",FHD - A&E HD
+http://tv.nousiptv.com:25462/Omy/1234/403
+#EXTINF:-1 tvg-id="AMC.mx" tvg-name="FHD - AMC" tvg-logo="http://horrorfuel.com/wp-content/uploads/2015/06/amc-3.png" group-title="• FULL HD (1080 HQ)",FHD - AMC
+http://tv.nousiptv.com:25462/Omy/1234/4085
+#EXTINF:-1 tvg-id="AXN.mx" tvg-name="FHD - AXN HD" tvg-logo="https://la.axn.com/sites/la.axn/files/ct_custom_page_f_primary_image/axn_logo_0.jpg" group-title="• FULL HD (1080 HQ)",FHD - AXN HD
+http://tv.nousiptv.com:25462/Omy/1234/4038
+#EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="FHD - CINECANAL" tvg-logo="https://i.pinimg.com/originals/c1/4f/75/c14f754e78f60f3a8829b2b5c2e1276a.png" group-title="• FULL HD (1080 HQ)",FHD - CINECANAL
+http://tv.nousiptv.com:25462/Omy/1234/4068
+#EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="FHD - CINEMAX" tvg-logo="http://images.mi.tv/channels/mx_cinemax_m.png" group-title="• FULL HD (1080 HQ)",FHD - CINEMAX
+http://tv.nousiptv.com:25462/Omy/1234/4110
+#EXTINF:-1 tvg-id="Fox.mx" tvg-name="FHD - FOX HD" tvg-logo="http://www.elespectador.com/sites/default/files/b2b872b67aceb067a12d2611b00592ae.jpg" group-title="• FULL HD (1080 HQ)",FHD - FOX HD
+http://tv.nousiptv.com:25462/Omy/1234/4022
+#EXTINF:-1 tvg-id="FoxLife.mx" tvg-name="FHD - FOX LIFE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Fox_Life_pt_logo.PNG" group-title="• FULL HD (1080 HQ)",FHD - FOX LIFE HD
+http://tv.nousiptv.com:25462/Omy/1234/4043
+#EXTINF:-1 tvg-id="FoxAction.mx" tvg-name="FHD - FOX PREMIUM ACTION" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-action_m.png" group-title="• FULL HD (1080 HQ)",FHD - FOX PREMIUM ACTION
+http://tv.nousiptv.com:25462/Omy/1234/4019
+#EXTINF:-1 tvg-id="" tvg-name="FHD - FOX PREMIUM CINEMA" tvg-logo="http://images.mi.tv/channels/cl_fox-premium-cinema_m.png" group-title="• FULL HD (1080 HQ)",FHD - FOX PREMIUM CINEMA
+http://tv.nousiptv.com:25462/Omy/1234/8238
+#EXTINF:-1 tvg-id="" tvg-name="FHD - FOX PREMIUM CLASSICS" tvg-logo="http://images.mi.tv/channels/cl_fox-premium-classics_m.png" group-title="• FULL HD (1080 HQ)",FHD - FOX PREMIUM CLASSICS
+http://tv.nousiptv.com:25462/Omy/1234/8237
+#EXTINF:-1 tvg-id="" tvg-name="FHD - FOX PREMIUM COMEDY" tvg-logo="http://images.mi.tv/channels/cl_fox-premium-comedy_m.png" group-title="• FULL HD (1080 HQ)",FHD - FOX PREMIUM COMEDY
+http://tv.nousiptv.com:25462/Omy/1234/8234
+#EXTINF:-1 tvg-id="FoxMovies.mx" tvg-name="FHD - FOX PREMIUM FAMILY" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-family_m.png" group-title="• FULL HD (1080 HQ)",FHD - FOX PREMIUM FAMILY
+http://tv.nousiptv.com:25462/Omy/1234/4084
+#EXTINF:-1 tvg-id="FoxMovies.mx" tvg-name="FHD - FOX PREMIUM MOVIES" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-movies_m.png" group-title="• FULL HD (1080 HQ)",FHD - FOX PREMIUM MOVIES
+http://tv.nousiptv.com:25462/Omy/1234/4023
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="FHD - FOX PREMIUM SERIES" tvg-logo="https://seriepolis.com/wp-content/uploads/2017/03/FOX-PREMIUM-SERIES-SIN-FONDO-01-1.png" group-title="• FULL HD (1080 HQ)",FHD - FOX PREMIUM SERIES
+http://tv.nousiptv.com:25462/Omy/1234/4020
+#EXTINF:-1 tvg-id="FX.mx" tvg-name="FHD - FX HD" tvg-logo="http://images.mi.tv/channels/ar_fx_m.png" group-title="• FULL HD (1080 HQ)",FHD - FX HD
+http://tv.nousiptv.com:25462/Omy/1234/4044
+#EXTINF:-1 tvg-id="" tvg-name="FHD - GOLDEN PLUS" tvg-logo="https://telcammuzquiz.com/wp-content/uploads/2018/03/Golden-Plus.jpg" group-title="• FULL HD (1080 HQ)",FHD - GOLDEN PLUS
+http://tv.nousiptv.com:25462/Omy/1234/8255
+#EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="FHD - GOLDEN PREMIERE" tvg-logo="http://images.mi.tv/channels/co_golden-premier-hd_m.png" group-title="• FULL HD (1080 HQ)",FHD - GOLDEN PREMIERE
+http://tv.nousiptv.com:25462/Omy/1234/4091
+#EXTINF:-1 tvg-id="HBO2.mx" tvg-name="FHD - HBO 2" tvg-logo="http://images.mi.tv/channels/cl_hbo-2_m.png" group-title="• FULL HD (1080 HQ)",FHD - HBO 2
+http://tv.nousiptv.com:25462/Omy/1234/4095
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="FHD - HBO FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="• FULL HD (1080 HQ)",FHD - HBO FAMILY
+http://tv.nousiptv.com:25462/Omy/1234/3211
+#EXTINF:-1 tvg-id="HBO.mx" tvg-name="FHD - HBO HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4a/HBO_HD.png" group-title="• FULL HD (1080 HQ)",FHD - HBO HD
+http://tv.nousiptv.com:25462/Omy/1234/4112
+#EXTINF:-1 tvg-id="HBOPlus.mx" tvg-name="FHD - HBO PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="• FULL HD (1080 HQ)",FHD - HBO PLUS
+http://tv.nousiptv.com:25462/Omy/1234/4109
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="FHD - HBO XTREME" tvg-logo="https://forounivers.com/uploads/monthly_2020_02/large.hboextremecolor.png.bad67a7db5312c77f975cf2cf9b889cb.png" group-title="• FULL HD (1080 HQ)",FHD - HBO XTREME
+http://tv.nousiptv.com:25462/Omy/1234/8226
+#EXTINF:-1 tvg-id="" tvg-name="FHD - HBO POP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Max-up-canal.png" group-title="• FULL HD (1080 HQ)",FHD - HBO POP
+http://tv.nousiptv.com:25462/Omy/1234/8246
+http://tv.nousiptv.com:25462/Omy/1234/4048
+#EXTINF:-1 tvg-id="Space.mx" tvg-name="FHD - SPACE HD" tvg-logo="http://www.cable10.com/imagenes/programacion/canales_0013s_0011_Layer%2039.jpg" group-title="• FULL HD (1080 HQ)",FHD - SPACE HD
+http://tv.nousiptv.com:25462/Omy/1234/4099
+#EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-name="FHD - STUDIO UNIVERSAL" tvg-logo="http://studiouniversal.wiperagency.com/uploads/product/dcd0513fc9513c710f9cab0e0097abfb4deb340a.jpg" group-title="• FULL HD (1080 HQ)",FHD - STUDIO UNIVERSAL
+http://tv.nousiptv.com:25462/Omy/1234/4100
+#EXTINF:-1 tvg-id="TCM.mx" tvg-name="FHD - TCM HD" tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/nuevo_logo_tcm.jpg" group-title="• FULL HD (1080 HQ)",FHD - TCM HD
+http://tv.nousiptv.com:25462/Omy/1234/4106
+#EXTINF:-1 tvg-id="" tvg-name="FHD - TLC" tvg-logo="http://images.mi.tv/channels/ar_discovery-tlc_m.png" group-title="• FULL HD (1080 HQ)",FHD - TLC
+http://tv.nousiptv.com:25462/Omy/1234/4074
+#EXTINF:-1 tvg-id="TNT.mx" tvg-name="FHD - TNT HD" tvg-logo="http://fanboynation.com/wp-content/uploads/2015/04/TNT-Logo.jpg" group-title="• FULL HD (1080 HQ)",FHD - TNT HD
+http://tv.nousiptv.com:25462/Omy/1234/4103
+#EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="FHD - TNT SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="• FULL HD (1080 HQ)",FHD - TNT SERIES
+http://tv.nousiptv.com:25462/Omy/1234/4050
+#EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="FHD - UNIVERSAL CHANNEL" tvg-logo="https://hips.hearstapps.com/digitalspyuk.cdnds.net/13/31/uktv-universal-channel-logo.jpg" group-title="• FULL HD (1080 HQ)",FHD - UNIVERSAL CHANNEL
+http://tv.nousiptv.com:25462/Omy/1234/4054
+#EXTINF:-1 tvg-id="UniversalChannel.mx" tvg-name="FHD - WARNER" tvg-logo="http://images.mi.tv/channels/ar_warner-channel_m.png" group-title="• FULL HD (1080 HQ)",FHD - WARNER
+http://tv.nousiptv.com:25462/Omy/1234/4053
