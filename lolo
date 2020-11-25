@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="LD - BEIN SPORTS HD" tvg-logo="http://cdn.cablefax.com/wp-content/uploads/2014/05/Bein-Sports-SPA-logo-color-hires-1.jpg" group-title="• LATINO DEPORTES •",LD - BEIN SPORTS HD
+http://tv.nousiptv.com:25462/Omy/1234/3747
+#EXTINF:-1 tvg-id="" tvg-name="LD - DIRECTV SPORTS HD" tvg-logo="https://www.reporterosasociados.com.co/wp/wp-content/uploads/2019/01/DIRECTV-Sports.png" group-title="• LATINO DEPORTES •",LD - DIRECTV SPORTS HD
+http://tv.nousiptv.com:25462/Omy/1234/7863
+#EXTINF:-1 tvg-id="" tvg-name="LD - DIRECTV SPORTS 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/1200px-DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="• LATINO DEPORTES •",LD - DIRECTV SPORTS 2 HD
+http://tv.nousiptv.com:25462/Omy/1234/32882
+#EXTINF:-1 tvg-id="" tvg-name="LD - DIRECTV SPORTS PLUS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/1200px-DirecTV_Sports%2B_Latin_America_%282018%29.png" group-title="• LATINO DEPORTES •",LD - DIRECTV SPORTS PLUS HD
+http://tv.nousiptv.com:25462/Omy/1234/27879
+#EXTINF:-1 tvg-id="" tvg-name="LD - FOX SPORTS 1 SUR HD" tvg-logo="https://ya-webdesign.com/images/fox-sports-1-logo-png-1.png" group-title="• LATINO DEPORTES •",LD - FOX SPORTS 1 SUR HD
+http://tv.nousiptv.com:25462/Omy/1234/3612
+#EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="LD - FOX SPORTS 2 SUR HD" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/5/5c/Fox_Sports_2_HD_logo.png" group-title="• LATINO DEPORTES •",LD - FOX SPORTS 2 SUR HD
+http://tv.nousiptv.com:25462/Omy/1234/16139
+#EXTINF:-1 tvg-id="FoxSports3.ar" tvg-name="LD - FOX SPORTS 3 SUR HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c1/Fox_Sports_3_HD-0.png" group-title="• LATINO DEPORTES •",LD - FOX SPORTS 3 SUR HD
+http://tv.nousiptv.com:25462/Omy/1234/33475
+#EXTINF:-1 tvg-id="ESPNDeportes.us" tvg-name="LD - ESPN DEPORTES HD" tvg-logo="https://futbol.radioformula.com.mx/wp-content/uploads/2019/06/Logo-ESPN-1.png" group-title="• LATINO DEPORTES •",LD - ESPN DEPORTES HD
+http://tv.nousiptv.com:25462/Omy/1234/3613
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="LD - ESPN 1 SUR HD" tvg-logo="http://e.espncdn.com/2003/photos2017/0331/ESPN-logo_220.jpg" group-title="• LATINO DEPORTES •",LD - ESPN 1 SUR HD
+http://tv.nousiptv.com:25462/Omy/1234/3614
+#EXTINF:-1 tvg-id="" tvg-name="LD - ESPN 2 SUR HD" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn2.png" group-title="• LATINO DEPORTES •",LD - ESPN 2 SUR HD
+http://tv.nousiptv.com:25462/Omy/1234/43637
+#EXTINF:-1 tvg-id="ESPN3.ar" tvg-name="LD - ESPN 3 SUR HD" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn3.png" group-title="• LATINO DEPORTES •",LD - ESPN 3 SUR HD
+http://tv.nousiptv.com:25462/Omy/1234/3615
+#EXTINF:-1 tvg-id="ESPNLatin.mx" tvg-name="LD - ESPN PLUS SUR FHD" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn-mas.png" group-title="• LATINO DEPORTES •",LD - ESPN PLUS SUR FHD
+http://tv.nousiptv.com:25462/Omy/1234/7940
+#EXTINF:-1 tvg-id="TYCSports.ar" tvg-name="LD - TYC SPORTS HD" tvg-logo="https://pbs.twimg.com/media/D_XydwSW4AAjU6l.jpg" group-title="• LATINO DEPORTES •",LD - TYC SPORTS HD
+http://tv.nousiptv.com:25462/Omy/1234/3759
